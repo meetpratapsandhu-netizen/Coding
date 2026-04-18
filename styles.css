@@ -1,0 +1,21 @@
+#input{
+    display: flex;
+    justify-content: flex-start;
+    gap: 1vh;
+}
+
+#button{
+    display: inline-block;
+    height: 5vh;
+    width: auto;
+    background-color: white;
+    color: black;    
+    
+}
+
+#movieInput{
+    height: 5vh;
+    width: auto;
+    background-color: white;
+    color: black;
+}
