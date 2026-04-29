@@ -1,5 +1,29 @@
 {
   "devDependencies": {
-    "@types/node": "^25.6.0"
-  }
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "undici-types": "^7.19.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetpratapsandhu-netizen/Coding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/meetpratapsandhu-netizen/Coding/issues"
+  },
+  "homepage": "https://github.com/meetpratapsandhu-netizen/Coding#readme"
 }
